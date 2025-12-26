@@ -7,8 +7,8 @@ git push -u origin main
 1、层级：
 应用程序
 硬件访问服务
-硬件抽象层模块
+硬件抽象层模块 (Modules/freg)
 --------
-硬件开发驱动程序
+硬件开发驱动程序 (drivers/freg)
 
 
