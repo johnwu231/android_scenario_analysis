@@ -11,4 +11,11 @@ git push -u origin main
 --------
 硬件开发驱动程序 (drivers/freg)
 
+二、Logger 日志
+kernel:
+https://android.googlesource.com/kernel/goldfish.git/+/refs/heads/android-goldfish-2.6.29/drivers/staging/android/
+
+aosp:
+https://cs.android.com/android/platform/superproject/+/android-2.3.7_r1:system/core/
+
 
